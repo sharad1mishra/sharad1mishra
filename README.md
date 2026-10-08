@@ -2,8 +2,8 @@
 
 I'm a **Software Engineer** passionate about building scalable web applications and developer tools.
 
-- 🔭 I’m currently working on **[Project Name/Domain]**
-- 🌱 I’m currently learning **[New Framework/Tech]**
+- 🔭 I’m currently working on **[Banking Project BFSI Domain]**
+- 🌱 I’m currently learning **[GitHub Actions & CI/CD Pipelines]**
 - 💬 Ask me about **TypeScript, React, Python, or System Design**
 - 📫 Reach me at: **[sharad1mishra@gmail.com]** | [LinkedIn](https://www.linkedin.com/in/sharad1mishra/)
 
