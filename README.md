@@ -31,6 +31,6 @@ I'm a **Software Engineer** passionate about building scalable web applications 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharad1mishra&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad1mishra&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharad1mishra&show_icons=true&theme=radical" alt="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad1mishra&layout=compact&theme=radical" alt="J2EE" />
 </p>
